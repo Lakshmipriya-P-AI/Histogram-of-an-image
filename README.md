@@ -68,16 +68,18 @@ cv2.imshow("Equalized Image",equ)
 cv2.waitKey(0)
 cv2.destroyAllWindows
 ```
-
 ## Output:
 ### Input Grayscale Image and Color Image
+
 ![ex4 op1](https://user-images.githubusercontent.com/93427923/166106520-a3881ec5-e5d7-410a-96c7-df1dbf0f7ab0.png)
 
 ### Histogram of Grayscale Image and any channel of Color Image
+
 ![ex4 op2 1](https://user-images.githubusercontent.com/93427923/166106530-6836af22-e2d2-4d97-9289-4db1208ac968.png)
 ![ex4 op2 2](https://user-images.githubusercontent.com/93427923/166106535-241b64f4-2c76-45f1-b8c0-c1e0e4d64001.png)
 
 ### Histogram Equalization of Grayscale Image
+
 ![ex4 op3](https://user-images.githubusercontent.com/93427923/166106551-48fbfdc1-0912-45cd-b6d2-aee0b02b820c.png)
 
 ## Result: 
